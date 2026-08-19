@@ -1,47 +1,47 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "notes": "Production release. Installers are published to the prod updater repo.",
-  "pub_date": "2026-08-11T13:40:22.222Z",
+  "pub_date": "2026-08-19T11:17:38.395Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdktVUjUwU2xEUVdlZFZlaVd0VnRvUHphSHBxdU5uaEZyME4xdjNjUUFIRnJBYkMxM1NSWFhYVm1UUE4yRWJEYVdCeVZ3QzVxa2xFSHVma1NOb1RBU1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MDIzCWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6CktLL2NUTG5DZkdobkxrbkRNSjQ0akNFakhaTzl4MlVrUnpuOEM2dnM2YlpVcTI0c0pYOXc3OHlTUDZvZERUbndVS1ZUOVJPZTJScEp3WmE1S2dsdUJBPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_x64.app.tar.gz"
-    },
-    "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdktVUjUwU2xEUVdlZFZlaVd0VnRvUHphSHBxdU5uaEZyME4xdjNjUUFIRnJBYkMxM1NSWFhYVm1UUE4yRWJEYVdCeVZ3QzVxa2xFSHVma1NOb1RBU1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MDIzCWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6CktLL2NUTG5DZkdobkxrbkRNSjQ0akNFakhaTzl4MlVrUnpuOEM2dnM2YlpVcTI0c0pYOXc3OHlTUDZvZERUbndVS1ZUOVJPZTJScEp3WmE1S2dsdUJBPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_x64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1iT0kxTkJoZ0ROaCtJY3dvanRObGV0UFJjL0l4K1graVprZE5wWWtRdC9vT2RtTXZ0LzhlQ09rcUVnV2swV2NDbDZac0ltM1NoQ254YUtvUC9aK0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MDcwCWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6CmsrWjQySE5IQ3k4Tk8zSlhQZVI1dnFMQXE1MkppWHdMd04rc05OVkFPNnFrOSs0NXVVU2tpZEY3SjFxSG9OaXUrRHhkV21MRVlWajdFalNtOFg4QUJnPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdks5cTU2N2dYK0t3YWRkcGtOMktDcU9SZFYxMnM5SWVsR1RIQmtUSENyUVBWcFMrOEt5TkxvbW9FK2Z0Z29oRGNBMlRVbmVoSnRMdFBpN0JqQmEvWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM3NTE4CWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6Ck5PZ3VlREJGZHdHd1cwTkRyYkJzSmYwU1gvY1FoYXNqUURzTWZETUd0NU9xV1EzcU5hQ2VlSmFIdDR1NjU2QTI3ZlZtUGlrbzhRWTJzTG1meXR2N0J3PT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1iT0kxTkJoZ0ROaCtJY3dvanRObGV0UFJjL0l4K1graVprZE5wWWtRdC9vT2RtTXZ0LzhlQ09rcUVnV2swV2NDbDZac0ltM1NoQ254YUtvUC9aK0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MDcwCWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6CmsrWjQySE5IQ3k4Tk8zSlhQZVI1dnFMQXE1MkppWHdMd04rc05OVkFPNnFrOSs0NXVVU2tpZEY3SjFxSG9OaXUrRHhkV21MRVlWajdFalNtOFg4QUJnPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdks5cTU2N2dYK0t3YWRkcGtOMktDcU9SZFYxMnM5SWVsR1RIQmtUSENyUVBWcFMrOEt5TkxvbW9FK2Z0Z29oRGNBMlRVbmVoSnRMdFBpN0JqQmEvWHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM3NTE4CWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6Ck5PZ3VlREJGZHdHd1cwTkRyYkJzSmYwU1gvY1FoYXNqUURzTWZETUd0NU9xV1EzcU5hQ2VlSmFIdDR1NjU2QTI3ZlZtUGlrbzhRWTJzTG1meXR2N0J3PT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_aarch64.app.tar.gz"
     },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1Kc1JUZGI1N0tUNGhUUFVWREVwcU0wT2tkNUNNRmlucEhZR1FhbTFkb2RmazJpNzE2enYxY3JSL2wzN1pyNlhrRWhobVI3SkFMekd4NzF2OWttV3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MjI5CWZpbGU6V29yY3VsYXRvcl8xLjAuMF9hbWQ2NC5kZWIKZGxQdkJIT1l4N2gwNnBicUVuQkZuQ1BOa1A3Q09ueGVtdW1oZlJHT0RGYmczY0VCcTErcGFCcXZ5ampLTmtvVWZPZTUwMndLVG5iNlpXQTJJSlZyQnc9PQo=",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_1.0.0_amd64.deb"
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk90RGlQMnRjRnNUakhYK3BPZVdwTlp3aS8zeXhQVjZyRm54UkVCUFlyak1NL2ZzM3ZhWVEwTnBXekRNaWVzelJkQjQ1dnZJYWxYb1dmR2JBOXAyWndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM3NTkyCWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6CkNveUNiN2VTbkxzZ2w3ZHFUVllzdWUyb1J6M1lCa3Z2SE03M0hXcUliRzkxRzNIc0RKQkMvVU9rUWU5dTQ4bGJSV2p1djdST1BaN3VKR2tFbTZWREJnPT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_x64.app.tar.gz"
     },
-    "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1Kc1JUZGI1N0tUNGhUUFVWREVwcU0wT2tkNUNNRmlucEhZR1FhbTFkb2RmazJpNzE2enYxY3JSL2wzN1pyNlhrRWhobVI3SkFMekd4NzF2OWttV3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MjI5CWZpbGU6V29yY3VsYXRvcl8xLjAuMF9hbWQ2NC5kZWIKZGxQdkJIT1l4N2gwNnBicUVuQkZuQ1BOa1A3Q09ueGVtdW1oZlJHT0RGYmczY0VCcTErcGFCcXZ5ampLTmtvVWZPZTUwMndLVG5iNlpXQTJJSlZyQnc9PQo=",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_1.0.0_amd64.deb"
-    },
-    "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdko3Zm9zVkNMY3NyV1pLRXhFR3MvcVJsREpMRTI2T3k0WWZGcXhOczk0N0dhNDhXWVpCc204SFdWZUY5c2o5TDBpRTQ5bTJzanYxQkxZZG0xbFdqOVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1MjI5CWZpbGU6V29yY3VsYXRvci0xLjAuMC0xLng4Nl82NC5ycG0KQms1RDdTRE1VQmt1UXFMbDlYenhoZ0lRQWY2MFUvejlpeWNraUg5KzRvenFVbFhtbWpUSHJoVThWYk80aitEMmZKMWlBYmw3bmd3WjJIelF1SnR2QVE9PQo=",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator-1.0.0-1.x86_64.rpm"
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk90RGlQMnRjRnNUakhYK3BPZVdwTlp3aS8zeXhQVjZyRm54UkVCUFlyak1NL2ZzM3ZhWVEwTnBXekRNaWVzelJkQjQ1dnZJYWxYb1dmR2JBOXAyWndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM3NTkyCWZpbGU6V29yY3VsYXRvci5hcHAudGFyLmd6CkNveUNiN2VTbkxzZ2w3ZHFUVllzdWUyb1J6M1lCa3Z2SE03M0hXcUliRzkxRzNIc0RKQkMvVU9rUWU5dTQ4bGJSV2p1djdST1BaN3VKR2tFbTZWREJnPT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1sNGxKSmVnMWtJM2xTRWZvQ2N4WHl3WVREZmdHaEIzcjJVc0xybFZTSnM3ZnNlRjRtc3ZLVUY2SC9uWUcxMDZreEJxSllaVDlVR1g2NjNFWXFvd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1NjE4CWZpbGU6V29yY3VsYXRvcl8xLjAuMF94NjQtc2V0dXAuZXhlCjRCc3l1d21PdmpmNllIbE9wU0FHV21LaWg0MHFPQXpSempOWE5UYkszSkdMWmppVkEzaWdaMlNuTndtSFFveG41V0Z6QTh0TllTNDhUWlVIM2szOURBPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk9YL08yUkxTYnhQUWE4aFdrUUIra1hjYVdLejJzbEY5SFZsRDFFTDZSYzdBb09XUmxLUU1hVnMxY0p5dmFYeFYvb0xTa3lBMVMxTHpmejFQQUMwM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM4MTAyCWZpbGU6V29yY3VsYXRvcl8xLjAuMV94NjQtc2V0dXAuZXhlCnEvYWgzemtPL0lJQTZwVlFUclJsSUs5NmpmdWQ2SWFETjRYK2U2N1MvTTNTeVMwQmhJUU44WlZkRGJRTjFjN3U1WEQ0STU2MjdyTGNIUEVrOGE5N0NnPT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_1.0.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1sNGxKSmVnMWtJM2xTRWZvQ2N4WHl3WVREZmdHaEIzcjJVc0xybFZTSnM3ZnNlRjRtc3ZLVUY2SC9uWUcxMDZreEJxSllaVDlVR1g2NjNFWXFvd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1NjE4CWZpbGU6V29yY3VsYXRvcl8xLjAuMF94NjQtc2V0dXAuZXhlCjRCc3l1d21PdmpmNllIbE9wU0FHV21LaWg0MHFPQXpSempOWE5UYkszSkdMWmppVkEzaWdaMlNuTndtSFFveG41V0Z6QTh0TllTNDhUWlVIM2szOURBPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk9YL08yUkxTYnhQUWE4aFdrUUIra1hjYVdLejJzbEY5SFZsRDFFTDZSYzdBb09XUmxLUU1hVnMxY0p5dmFYeFYvb0xTa3lBMVMxTHpmejFQQUMwM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM4MTAyCWZpbGU6V29yY3VsYXRvcl8xLjAuMV94NjQtc2V0dXAuZXhlCnEvYWgzemtPL0lJQTZwVlFUclJsSUs5NmpmdWQ2SWFETjRYK2U2N1MvTTNTeVMwQmhJUU44WlZkRGJRTjFjN3U1WEQ0STU2MjdyTGNIUEVrOGE5N0NnPT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_1.0.1_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkZ6bFk1bW40UjRzOWJneEJNNUt2cjh2cFk0R1h3K1JST2RBbkVZS043WXM0SmZXS0RmNjJjK29hSEVQN3lvTGhoOFoybEZhL0docWU0V04yM3RjV1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM4MjU0CWZpbGU6V29yY3VsYXRvcl8xLjAuMV9hbWQ2NC5kZWIKL1JTTWtpbnduL1o5OVY2S2RNM2l0M3RWNzF5NmYwclh2M2thdzNMRE45ck84WHJXTGlrd1lFQ1dCMmtHa1lmUjZhNGc0c0FaczUyRXpGWWJNdzZ3QXc9PQo=",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_1.0.1_amd64.deb"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkZ6bFk1bW40UjRzOWJneEJNNUt2cjh2cFk0R1h3K1JST2RBbkVZS043WXM0SmZXS0RmNjJjK29hSEVQN3lvTGhoOFoybEZhL0docWU0V04yM3RjV1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM4MjU0CWZpbGU6V29yY3VsYXRvcl8xLjAuMV9hbWQ2NC5kZWIKL1JTTWtpbnduL1o5OVY2S2RNM2l0M3RWNzF5NmYwclh2M2thdzNMRE45ck84WHJXTGlrd1lFQ1dCMmtHa1lmUjZhNGc0c0FaczUyRXpGWWJNdzZ3QXc9PQo=",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_1.0.1_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09MdkdEbDdCWnZIaXN0Vi8wVmtKWUZ5b1lnWjRkZktkYUtYblkzRGErK0pqblM2RE9KTHBNZ0t5UnpxZTdVclgvWFB6M3BGMGIvZDRkeEFTNXlTQi84MFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM4MjU0CWZpbGU6V29yY3VsYXRvci0xLjAuMS0xLng4Nl82NC5ycG0KYkxUYm5iSVM3SHk4Uys1TVVlUGNWTVhPb3V3VytZVFB2WWM1bG9nVEJqSjREOTBheEU3RkN2bzl2UnVtY2t6MDZKQXBBL25NbzZiOXpCNnFCZTVPQlE9PQo=",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator-1.0.1-1.x86_64.rpm"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk1sNGxKSmVnMWtJM2xTRWZvQ2N4WHl3WVREZmdHaEIzcjJVc0xybFZTSnM3ZnNlRjRtc3ZLVUY2SC9uWUcxMDZreEJxSllaVDlVR1g2NjNFWXFvd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDU1NjE4CWZpbGU6V29yY3VsYXRvcl8xLjAuMF94NjQtc2V0dXAuZXhlCjRCc3l1d21PdmpmNllIbE9wU0FHV21LaWg0MHFPQXpSempOWE5UYkszSkdMWmppVkEzaWdaMlNuTndtSFFveG41V0Z6QTh0TllTNDhUWlVIM2szOURBPT0K",
-      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.0/Worculator_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUaW9INFlWa09Mdk9YL08yUkxTYnhQUWE4aFdrUUIra1hjYVdLejJzbEY5SFZsRDFFTDZSYzdBb09XUmxLUU1hVnMxY0p5dmFYeFYvb0xTa3lBMVMxTHpmejFQQUMwM3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTM4MTAyCWZpbGU6V29yY3VsYXRvcl8xLjAuMV94NjQtc2V0dXAuZXhlCnEvYWgzemtPL0lJQTZwVlFUclJsSUs5NmpmdWQ2SWFETjRYK2U2N1MvTTNTeVMwQmhJUU44WlZkRGJRTjFjN3U1WEQ0STU2MjdyTGNIUEVrOGE5N0NnPT0K",
+      "url": "https://github.com/sarthakagrawal-Shriek/worculator-updater-production/releases/download/v1.0.1/Worculator_1.0.1_x64-setup.exe"
     }
   }
 }
